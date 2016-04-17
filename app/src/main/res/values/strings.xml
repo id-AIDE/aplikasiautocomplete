@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_dataku">Dataku</string>
+    <string name="app">Teks AutoComplete</string>
+    <string name="perintah">Masukkan alamat</string>
+
+</resources>
